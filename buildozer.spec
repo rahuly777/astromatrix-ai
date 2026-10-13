@@ -1,4 +1,5 @@
 [app]
+source.dir = .
 title = AstroMatrix AI
 package.name = astromatrix
 package.domain = org.ramjiyadav
