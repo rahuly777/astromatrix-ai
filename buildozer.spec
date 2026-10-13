@@ -10,4 +10,4 @@ orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
 android.ndk = 25b
-
+icon.filename = logo.png
