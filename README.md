@@ -1,1 +1,1 @@
-# astromatrix-ai
+# AstroMatrix-ai
