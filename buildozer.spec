@@ -1,4 +1,6 @@
 [app]
+# (str) Source directory where the application files are located
+source.dir = .
 
 # (str) Title of your application
 title = AstroMatrix AI
