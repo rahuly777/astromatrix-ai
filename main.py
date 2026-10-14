@@ -352,6 +352,6 @@ class AstroMatrixUltimateResearchApp(App):
         generated_report = self.theorem_prover.synthesize_proof_report(query_text, selected_mode)
         self.report_display_label.text = generated_report
 
-
 if __name__ == '__main__':
-    AstroMatrixUltimate
+    AstroMatrixUltimateResearchApp().run()
+  
