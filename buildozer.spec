@@ -30,11 +30,15 @@ orientation = portrait
 # (int) Target Android API, should be as high as possible.
 android.api = 33
 
-# (int) Minimum API your APK will support.
-android.minapi = 24
+# (int) Minimum API your APK / AAB will support.
+android.minapi = 21
+
+# (str) Android SDK version to use
+android.sdk = 33
 
 # (str) Android NDK version to use
 android.ndk = 25b
 
-# (str) Android arch to build for
+# (str) Supported architectures
 android.archs = arm64-v8a, armeabi-v7a
+
